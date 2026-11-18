@@ -1,0 +1,4 @@
+1.CREATE A GIT REPO
+2. UV INIT
+3. uv add the libraries required
+4.  uv run python -m pytest -v for running the test cases using pytest.
